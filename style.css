@@ -132,3 +132,11 @@ footer {
   background: var(--color5);
   color: #fff;
 }
+
+#description p{
+  font-size: 20px;
+  margin-left: 10px;
+}
+#description h2{
+  margin-left: 10px;
+}
